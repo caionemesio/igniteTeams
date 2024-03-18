@@ -16,13 +16,12 @@
       "@storage/*":[
         "./src/storage/*"
       ],
-      "@theme/*":[
-        "./src/theme/*"
-      ],
       "@utils/*":[
         "./src/utils/*"
       ],
-
+      "@components/*":[
+        "./src/components/*"
+      ],
     }
   }
 }
