@@ -7,9 +7,6 @@
       "@assets/*":[
         "./src/assets/*"
       ],
-      "@routes/*":[
-        "./src/routes/*"
-      ],
       "@screens/*":[
         "./src/screens/*"
       ],
